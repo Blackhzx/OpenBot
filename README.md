@@ -5,6 +5,12 @@
 
 ---
 
+## Tutorial em vídeo
+
+[![Tutorial de instalação do Open Bot](https://img.youtube.com/vi/cIY0vtFt1LM/maxresdefault.jpg)](https://youtu.be/cIY0vtFt1LM)
+
+Assista o passo a passo da instalação: https://youtu.be/cIY0vtFt1LM
+
 ## Instalação
 
 Precisa do **Node 22.13+**.

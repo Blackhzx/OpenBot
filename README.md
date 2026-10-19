@@ -4,7 +4,7 @@
 <p align="center">WhatsApp Bot · 100% Open Source · PT / EN / ID</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Blackhzx-OpenBot&label=Visualizacoes&color=2ea44f&style=for-the-badge" alt="Visualizações">
+  <img src="https://hits.sh/github.com/Blackhzx/OpenBot.svg?style=for-the-badge&label=VISITAS&color=2ea44f" alt="Visitas">
   <a href="https://github.com/Blackhzx/OpenBot/stargazers"><img src="https://img.shields.io/github/stars/Blackhzx/OpenBot?style=for-the-badge&color=2ea44f" alt="Estrelas"></a>
   <a href="https://github.com/Blackhzx/OpenBot/fork"><img src="https://img.shields.io/github/forks/Blackhzx/OpenBot?style=for-the-badge&color=2ea44f" alt="Forks"></a>
   <img src="https://img.shields.io/github/license/Blackhzx/OpenBot?style=for-the-badge&color=2ea44f" alt="Licença">

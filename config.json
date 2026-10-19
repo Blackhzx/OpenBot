@@ -1,0 +1,18 @@
+{
+  "nome": "Open Bot",
+  "nomeDono": "Josuê </>",
+  "prefixo": "!",
+  "dono": [
+    "557797659032"
+  ],
+  "idioma": "pt",
+  "botoes": false,
+  "pairCode": "OPENBOT1",
+  "foto": "./media/openBot.jpg",
+  "zone": {
+    "url": "https://zone.api.br",
+    "cdn": "https://cdn.zone.api.br",
+    "apikey": "openbot"
+  },
+  "configurado": false
+}

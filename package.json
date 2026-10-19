@@ -1,0 +1,26 @@
+{
+  "name": "openbot",
+  "version": "1.0.0",
+  "description": "Open Bot - WhatsApp Bot 100% Open Source",
+  "main": "connect.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "sh start.sh",
+    "qr": "node connect.js",
+    "setup": "node lib/setup.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@systemzero/baileys": "^1.1.4",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "node-cache": "^5.1.2",
+    "node-webpmux": "^3.2.1",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "topo": "┌──「 *{bot}* 」\n│ {usuario}: {nome}\n│ {prefixoTxt}: {p}\n└────────────",
+  "secao": "┌──「 *{titulo}* 」",
+  "item": "│ › {p}{cmd}",
+  "fim": "└────────────",
+  "rodape": "_{bot} · open source_",
+  "menu": [
+    "menuadm",
+    "menudono",
+    "s",
+    "f",
+    "toimg",
+    "togif",
+    "tovideo",
+    "removebg",
+    "sfundo",
+    "rename pack / autor",
+    "gpt pergunta",
+    "play",
+    "playvideo",
+    "tiktok link",
+    "instagram link",
+    "facebook link",
+    "kwai link",
+    "twitter link",
+    "pinterest termo | qtd | tipo",
+    "ping",
+    "dono",
+    "ola"
+  ],
+  "menuadm": [
+    "ban",
+    "promover",
+    "rebaixar",
+    "marcar",
+    "grupo abrir/fechar",
+    "autofigu"
+  ],
+  "menudono": [
+    "idioma pt/en/id",
+    "botoes on/off",
+    "prefixo",
+    "setmenu",
+    "setfoto"
+  ]
+}
